@@ -1,0 +1,26 @@
+.btn{
+    background-color: #138496;;
+    color: white;
+    border-color: white ;
+    margin-top: 10px;
+}
+.navbar{
+    display: none;
+}
+.bg-nested-dropdown{
+    background-color: #138496;;
+    color: white;
+    border-color: white ;
+    margin-top: 10px;
+}
+.form-control .form-control-lg
+{
+    background-color: white;
+}
+.text-decoration-none{
+    color: #138496;
+}
+.card
+{
+    border: white;
+}
